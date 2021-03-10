@@ -5,7 +5,7 @@
     "picture": "images/micahel71.jpg",
     "__x_pictureFallback__": "images/micahel71.jpg",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Working over 20+ years in the IT industry. I’m interested in cloud engineering, all sorts of automation and operating all kinds of application.",
+    "summary": "Working over 20+ years in the IT industry. I’m interested in cloud engineering, all sorts of automation and operating all kinds of application. Married, two children.",
     "location": {
       "country": "Germany",
       "countryCode": "DE",
@@ -33,59 +33,18 @@
       "website": "https://www.ing.de",
       "startDate": "2019-09-01",
       "endDate": "",
-      "summary": "Joind the Container Platform Service",
-      "highlights": ["Kubernetes"]
-    },
-    {
-      "company": "Asseco PST",
-      "position": "DevOps Engineer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
-      "highlights": []
-    },
-    {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
-      "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
-      "highlights": []
-    },
-    {
-      "company": "European GNSS Agency",
-      "position": "IT Support Technician",
-      "website": "https://www.gsa.europea.eu",
-      "startDate": "2016-05-01",
-      "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
-      "highlights": []
-    },
-    {
-      "company": "Empresa de Electricidade da Madeira",
-      "position": "IT Support Technician",
-      "website": "https://www.eem.pt",
-      "startDate": "2015-03-01",
-      "endDate": "",
-      "summary": "My first real work experience. Interning as an IT Support Technician I was able to learn and explore way more than the workings of a big IT Infrastructure. I got to work with PowerShell scripting, PHP and email marketing.",
+      "summary": "Container Platform Service",
       "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Madeira",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor",
+      "institution": "University of applied sciences in Frankfurt am Main",
+      "area": "Land Surveying",
+      "studyType": "Diploma",
       "startDate": "2011-09-15",
       "endDate": "2019-06-07",
-      "courses": [
-        "Object Oriented Programming",
-        "Database Management Systems",
-        "Operating systems and computers architectures",
-        "Requirements Engineering"
-      ]
+      "courses": []
     }
   ],
   "skills": [
@@ -166,8 +125,16 @@
       "fluency": "Fluent speaker"
     },
     {
-      "language": "Portuguese",
+      "language": "German",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Greek",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
     }
   ],
   "interests": [
