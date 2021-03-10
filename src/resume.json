@@ -5,7 +5,7 @@
     "picture": "images/micahel71.jpg",
     "__x_pictureFallback__": "images/micahel71.jpg",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Working over 20+ years in the IT industry. I’m interested in cloud engineering, all sorts of automation and operating all kinds of application. Married, two children.",
+    "summary": "Working over 20+ years in the IT industry. I’m interested in cloud engineering, in operating all kinds of application and all sorts of automation. Married, two children.",
     "location": {
       "country": "Germany",
       "countryCode": "DE",
@@ -13,16 +13,27 @@
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "michael-chalvatzis",
-        "url": "https://www.linkedin.com/in/michael-chalvatzis",
-        "x_icon": "fab fa-2x fa-linkedin"
+        "network": "Mail",
+        "url": "mailto:michail@chalvatzis.de?subject=Hey Michael! Great CV, let's talk!",
+        "x_icon":"fas fa-2x fa-envelope"
       },
       {
         "network": "GitHub",
         "username": "micahel71",
         "url": "https://github.com/micahel71",
         "x_icon": "fab fa-2x fa-github"
+      },
+      {
+        "network": "Xing",
+        "username": "micahel",
+        "url": "https://www.xing.com/profile/Michael_Chalvatzis2",
+        "x_icon": "fab fa-2x fa-xing"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "michael-chalvatzis",
+        "url": "https://www.linkedin.com/in/michael-chalvatzis",
+        "x_icon": "fab fa-2x fa-linkedin"
       }
     ]
   },
@@ -139,20 +150,28 @@
   ],
   "interests": [
     {
+      "name": "Tech freak",
+      "x_icon": "fa-server"
+    },
+    {
+      "name": "Family man",
+      "x_icon": "fa-users"
+    },
+    {
       "name": "Travel bug",
-      "x_icon": "fa-globe-africa"
+      "x_icon": "fa-globe-europe"
     },
     {
-      "name": "Dog lover",
-      "x_icon": "fa-dog"
+      "name": "Kids",
+      "x_icon": "fa-futbol"
     },
     {
-      "name": "Foodie",
-      "x_icon": "fa-utensils"
+      "name": "Cinema",
+      "x_icon": "fa-film"
     },
     {
-      "name": "Live in the now",
-      "x_icon": "fa-brain"
+      "name": "Cycling",
+      "x_icon": "fa-biking"
     }
   ]
 }
