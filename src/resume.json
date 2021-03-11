@@ -2,8 +2,8 @@
   "basics": {
     "name": "Michael Chalvatzis",
     "label": "Cloud Engineer",
-    "picture": "images/micahel71.jpg",
-    "__x_pictureFallback__": "images/micahel71.jpg",
+    "picture": "images/micahel71.webp",
+    "x_pictureFallback": "images/micahel71.jpg",
     "x_title": "Hey There! Glad you're here",
     "summary": "Working over 20+ years in the IT industry. I’m interested in cloud engineering, in operating all kinds of application and all sorts of automation. Married, two children.",
     "location": {
