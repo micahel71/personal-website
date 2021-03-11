@@ -9,7 +9,7 @@
     "location": {
       "country": "Germany",
       "countryCode": "DE",
-      "region": "Frankfurt"
+      "region": "Frankfurt am Main"
     },
     "profiles": [
       {
@@ -39,7 +39,7 @@
   },
   "work": [
     {
-      "company": "ING DiBa AG",
+      "company": "ING-DiBa AG",
       "position": "System Engineer",
       "website": "https://www.ing.de",
       "startDate": "2019-09-01",
@@ -60,74 +60,74 @@
   ],
   "skills": [
     {
-      "name": "Jenkins",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Continuous Integration",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Scripting",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Containers",
-      "level": "Intermediate",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Cloud",
-      "level": "Basic",
-      "keywords": ["DevOps"]
-    },
-    {
       "name": "Troubleshooting",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
+      "level": 99,
+      "keywords": ["Methods"]
     },
     {
       "name": "Infrastructure as Code",
-      "level": "Basic",
-      "keywords": ["DevOps"]
+      "level": 95,
+      "keywords": ["Methods"]
     },
     {
-      "name": "Object Oriented Programming",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
+      "name": "Continuous Integration/Delivery",
+      "level": 90,
+      "keywords": ["Methods"]
     },
     {
-      "name": "Design Patterns",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "name": "Microservice Architecture",
+      "level": 85,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "DevOps",
+      "level": 85,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "ITIL",
+      "level": 80,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "GitOps",
+      "level": 80,
+      "keywords": ["Methods"]
+    },
+    {
+      "name": "Unix/Linux",
+      "level": 95,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Red Hat OpenShift & Kubernetes",
+      "level": 90,
+      "keywords": ["Tools"]
     },
     {
       "name": "Git",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "level": 90,
+      "keywords": ["Tools"]
     },
     {
-      "name": "REST API",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
+      "name": "Ansible/Ansible Tower",
+      "level": 90,
+      "keywords": ["Tools"]
     },
     {
-      "name": "Unit Testing",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "name": "VMware/VSphere",
+      "level": 75,
+      "keywords": ["Tools"]
     },
     {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "name": "Jenkins",
+      "level": 75,
+      "keywords": ["Tools"]
     },
     {
-      "name": "MongoDB",
-      "level": "Intermediate",
-      "keywords": ["Software Developer"]
+      "name": "Azure DevOps",
+      "level": 70,
+      "keywords": ["Tools"]
     }
   ],
   "languages": [

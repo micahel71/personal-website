@@ -12,7 +12,7 @@ function buildSkills(skills) {
   Object.entries(skills).forEach(([key, value]) => {
     progressBars.push(
       <li key={counter}>
-        <ProgressBar key={counter} text={key} level={value} />
+        <ProgressBar key={counter} text={key} percentage={value} />
       </li>
     );
     counter++;
