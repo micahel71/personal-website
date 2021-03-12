@@ -14,7 +14,7 @@
     "profiles": [
       {
         "network": "Mail",
-        "url": "mailto:michail@chalvatzis.de?subject=Hey Michael! Great CV, let's talk!",
+        "url": "mailto:mailbox@chalvatzis.de?subject=Hey Michael! Great CV, let's talk!",
         "x_icon":"fas fa-2x fa-envelope"
       },
       {
@@ -39,7 +39,10 @@
   },
   "work": [
     {
+      "image": "images/favicon-work/ing.png",
       "company": "ING-DiBa AG",
+      "department": "CoE \"Virtual Cloud Service\"",
+      "location": "Frankfurt, Germany",
       "position": "System Engineer",
       "website": "https://www.ing.de",
       "startDate": "2019-09-01",
@@ -54,7 +57,7 @@
       "area": "Land Surveying and Mapping",
       "studyType": "Diploma",
       "startDate": "1996-09-01",
-      "endDate": "2001-08-31",
+      "endDate": "2001-07-31",
       "courses": []
     }
   ],
@@ -145,7 +148,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "Basic"
+      "fluency": "Entry level"
     }
   ],
   "interests": [

@@ -32,11 +32,19 @@ function Timeline() {
                 return (
                   <TimelineItem
                     key={j}
-                    date={new Date(item.startDate).toLocaleString("en-UK", {
+                    startDate={new Date(item.startDate).toLocaleString("en-UK", {
                       month: "long",
                       year: "numeric"
                     })}
+                    endDate={new Date(item.endDate).toLocaleString("en-UK", {
+                      month: "long",
+                      year: "numeric"
+                    }).replace("Invalid Date","now")}
                     company={item.company}
+                    department = {item.department}
+                    location = {item.location}
+                    image =  {item.image}
+                    position = {item.position}
                     summary={item.summary}
                   />
                 );
