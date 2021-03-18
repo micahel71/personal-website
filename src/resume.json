@@ -47,7 +47,115 @@
       "website": "https://www.ing.de",
       "startDate": "2019-09-01",
       "endDate": "",
-      "summary": "Container Platform Service",
+      "summary": "Operational responsibility for the Container Hosting Platform in a private cloud. IT-Custodian for the Container Hosting Platform.",
+      "highlights": []
+    },
+    {
+      "image": "images/favicon-work/ing.png",
+      "company": "ING-DiBa AG",
+      "department": "Integration IT",
+      "location": "Frankfurt, Germany",
+      "position": "Application Support Engineer",
+      "website": "https://www.ing.de",
+      "startDate": "2015-11-01",
+      "endDate": "2019-08-31",
+      "summary": "Operational responsibility for 90 bank application based on J2EE. 2nd level operational responsibility for bank critical applications with 24/7 stand-by duty.",
+      "highlights": []
+    },
+    {
+      "image": "images/favicon-work/ca-technologies.png",
+      "company": "CA Deutschland GmbH",
+      "department": "Services Practice",
+      "location": "Darmstadt, Germany",
+      "position": "Services Architect",
+      "website": "https://www.ca.com",
+      "startDate": "2014-05-01",
+      "endDate": "2015-10-31",
+      "summary": "Consulting. Technical support for Account Management and Sales. Expertise in Continuous Deployment",
+      "highlights": []
+    },
+    {
+      "image": "images/favicon-work/ptc.png",
+      "company": "Parametric Technology GmbH",
+      "department": "ICenter ALM DEU",
+      "location": "Esslingen, Germany",
+      "position": "Senior Technical Sales Specialist ALM",
+      "website": "https://www.ptc.com",
+      "startDate": "2011-10-01",
+      "endDate": "2014-04-30",
+      "summary": "Consulting. Pre-Sales, Demo, Pilot Installation, PoV, PoC. Expertise in Requirement Management, Change Management, Software Configuration Management and Test Management (ALM)",
+      "highlights": []
+    },
+    {
+      "image": "images/favicon-work/mks.png",
+      "company": "MKS GmbH",
+      "department": "Professional Services",
+      "location": "Esslingen, Germany",
+      "position": "Senior Consultant",
+      "website": "https://en.wikipedia.org/wiki/MKS_Inc.",
+      "startDate": "2009-01-01",
+      "endDate": "2011-09-30",
+      "summary": "Consulting. Pre-Sales, Demo, Pilot Installation, PoV, PoC. Expertise in Requirement Management, Change Management, Software Configuration Management and Test Management (ALM)",
+      "highlights": []
+    },
+    {
+      "image": "images/favicon-work/amadeus.png",
+      "company": "Amadeus Germany GmbH",
+      "department": "Systems Engineering – Development General Services",
+      "location": "Bad Homburg, Germany",
+      "position": "System Analyst",
+      "website": "https://www.amadeus.com",
+      "startDate": "2001-08-01",
+      "endDate": "2008-12-31",
+      "summary": "Responsible for the whole software life cycle process (development, building, testing and deployment). Administration of the software configuration management system MKS and Rational ClearCase. Managing client and server side",
+      "highlights": []
+    },
+    {
+      "image": "images/favicon-work/inet.png",
+      "company": "Internet AG",
+      "department": "Systems",
+      "location": "Frankfurt, Germany",
+      "position": "Network Administrator",
+      "website": "https://www.inet.de",
+      "startDate": "1999-04-01",
+      "endDate": "2001-02-28",
+      "summary": "Responsible for the in-house network, based on Windows NT 4.0, Novell 3.10 and 4.11 and Linux (SuSE 6.x/7.x). Administration of the in-house mail system, based on Lotus Domino (4.6/5.05), sendmail 8.11.1 and TFS Gateway 4.5",
+      "highlights": []
+    },
+    {
+      "image": "images/favicon-work/jeppesen.png",
+      "company": "Jeppesen & Co. GmbH",
+      "department": "Systems Support",
+      "location": "Frankfurt, Germany",
+      "position": "Student Assistant",
+      "website": "https://www.jeppesen.com",
+      "startDate": "1998-04-01",
+      "endDate": "1999-03-31",
+      "summary": "Responsible for the testing environment (network, hardware and software). User Support (hardware and software)",
+      "highlights": []
+    },
+    {
+      "image": "images/favicon-work/netvice.png",
+      "company": "netVice GmbH",
+      "department": "Systems Support",
+      "location": "Bad Homburg, Germany",
+      "position": "Student Assistant",
+      "website": "https://www.netvice.de",
+      "startDate": "1998-01-01",
+      "endDate": "1998-03-31",
+      "summary": "Supporting the help desk and the system administration of the Deutsche Bau- und Bodenbank AG. Web development (HTML forms) with database access based on Informix",
+      "highlights": []
+    },
+    {
+      "image": "images/favicon-work/netvice.png",
+      "company": "Citicorp Kartenservice GmbH",
+      "department": "Authorisation Backline Credit",
+      "location": "Frankfurt, Germany",
+      "position": "Student Assistant",
+      "website": "https://www.citigroup.com/",
+      "startDate": "1991-10-01",
+      "endDate": "1997-12-31",
+      "summary": "Supporting the help desk and the system administration of the Deutsche Bau- und Bodenbank AG. Web development (HTML forms) with database access based on Informix",
       "highlights": []
     }
   ],
@@ -118,7 +226,7 @@
       "keywords": ["Tools"]
     },
     {
-      "name": "VMware/VSphere",
+      "name": "ELK/Grafana/Prometheus",
       "level": 75,
       "keywords": ["Tools"]
     },

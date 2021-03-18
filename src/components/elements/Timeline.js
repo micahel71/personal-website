@@ -14,44 +14,49 @@ function Timeline() {
         <div className="timeline-marker is-success"></div>
         <div className="timeline-content"></div>
       </div>
-      {Resume.work
-        .map(item => {
+      {
+        Resume.work.map(item => {
           return new Date(item.startDate).getFullYear();
-        })
-        .map((year, i) => {
+        }).reduce((regyears, currentYear) => {
+          if (regyears.indexOf(currentYear) === -1) {
+            regyears.push(currentYear)
+          }
+          return regyears          
+        }, []).map((year, i) => {
           let content = [];
           content.push(
             <header key={i} className="timeline-header">
               <span className="tag is-success">{year}</span>
             </header>
           );
-          content.push(
-            Resume.work
-              .filter(work => new Date(work.startDate).getFullYear() === year)
-              .map((item, j) => {
-                return (
-                  <TimelineItem
-                    key={j}
-                    startDate={new Date(item.startDate).toLocaleString("en-UK", {
-                      month: "long",
-                      year: "numeric"
-                    })}
-                    endDate={new Date(item.endDate).toLocaleString("en-UK", {
-                      month: "long",
-                      year: "numeric"
-                    }).replace("Invalid Date","now")}
-                    company={item.company}
-                    department = {item.department}
-                    location = {item.location}
-                    image =  {item.image}
-                    position = {item.position}
-                    summary={item.summary}
-                  />
-                );
-              })
-          );
+          content.push(Resume.work.filter(work => new Date(work.startDate).getFullYear() === year).map((item, j) => {
+            return (
+              <TimelineItem
+                key={j}
+                startDate={ 
+                  new Date(item.startDate).toLocaleString("en-UK", {
+                    month: "long",
+                    year: "numeric"
+                  })
+                }
+                endDate={
+                  new Date(item.endDate).toLocaleString("en-UK", {
+                    month: "long",
+                    year: "numeric"
+                  }).replace("Invalid Date","now")
+                }
+                company={item.company}
+                department={item.department}
+                location={item.location}
+                image={item.image}
+                position={item.position}
+                summary={item.summary}
+              />
+            );
+          }));
           return content;
-        })}
+        })
+      }
     </div>
   );
 }
