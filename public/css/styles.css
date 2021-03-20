@@ -5,6 +5,10 @@ html {
     height: 180px;
     width: 180px;
 }
+.is-260x180{
+    height: 180px;
+    width: 260px;
+}
 .skill-list > li{
     margin: 30px 0 0 0;
 }

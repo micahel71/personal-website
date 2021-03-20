@@ -19,7 +19,7 @@ class NavBar extends React.Component {
       <nav className="navbar is-transparent">
         <div className="container">
           <div className="navbar-brand">
-            <a href="/" className="navbar-item title is-unselectable my-name">
+            <a href="https://www.chalvatzis.de/michael-cv/" className="navbar-item title is-unselectable my-name">
               {Resume.basics.name}
             </a>
             <span
@@ -41,6 +41,7 @@ class NavBar extends React.Component {
               <MenuItem text="About Me" href="#aboutMe" />
               <MenuItem text="Skills" href="#skills" />
               <MenuItem text="Experience" href="#experience" />
+              <MenuItem text="Education" href="#education" />
               <MenuItem text="Articles" href="#articles" />
             </div>
           </div>

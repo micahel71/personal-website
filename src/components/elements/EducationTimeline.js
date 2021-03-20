@@ -1,8 +1,8 @@
 import React from "react";
-import TimelineItem from "./TimelineItem";
+import EducationTimelineItem from "./EducationTimelineItem"
 import Resume from "../../resume.json";
 
-function Timeline() {
+function EducationTimeline() {
   return (
     <div className="timeline is-centered">
       <header className="timeline-header">
@@ -15,7 +15,7 @@ function Timeline() {
         <div className="timeline-content"></div>
       </div>
       {
-        Resume.work.map(item => {
+        Resume.education.map(item => {
           return new Date(item.startDate).getFullYear();
         }).reduce((regyears, currentYear) => {
           if (regyears.indexOf(currentYear) === -1) {
@@ -29,9 +29,9 @@ function Timeline() {
               <span className="tag is-success">{year}</span>
             </header>
           );
-          content.push(Resume.work.filter(work => new Date(work.startDate).getFullYear() === year).map((item, j) => {
+          content.push(Resume.education.filter(education => new Date(education.startDate).getFullYear() === year).map((item, j) => {
             return (
-              <TimelineItem
+              <EducationTimelineItem
                 key={j}
                 startDate={ 
                   new Date(item.startDate).toLocaleString("en-UK", {
@@ -45,12 +45,11 @@ function Timeline() {
                     year: "numeric"
                   }).replace("Invalid Date","now")
                 }
-                company={item.company}
-                department={item.department}
-                location={item.location}
+                institution={item.institution}
+                area={item.area}
                 image={item.image}
-                position={item.position}
-                summary={item.summary}
+                studyType={item.studyType}
+                courses={item.courses}
               />
             );
           }));
@@ -61,4 +60,4 @@ function Timeline() {
   );
 }
 
-export default Timeline;
+export default EducationTimeline;

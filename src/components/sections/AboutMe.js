@@ -6,7 +6,7 @@ function AboutMe() {
   return (
     <section className="section has-background-link" id="aboutMe">
       <div className="container has-text-centered">
-        <figure className="image container is-180x180">
+        <figure className="image container is-260x180">
           <img
             width="180px"
             height="180px"

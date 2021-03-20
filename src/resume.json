@@ -155,18 +155,28 @@
       "website": "https://www.citigroup.com/",
       "startDate": "1991-10-01",
       "endDate": "1997-12-31",
-      "summary": "Supporting the help desk and the system administration of the Deutsche Bau- und Bodenbank AG. Web development (HTML forms) with database access based on Informix",
+      "summary": "Handling of non automated authorization request for credit cards purchases by domestic and foreign credit card holders (VISA and Diners Club). Providing a 24 hours support for own credit card holders (Citibank Visa) and credit card holders from Diners Club Switzerland",
       "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of applied sciences in Frankfurt am Main, Germany",
+      "image": "images/favicon-work/fh-frankfurt.png",
+      "institution": "University of Applied Sciences in Frankfurt, Germany",
       "area": "Land Surveying and Mapping",
-      "studyType": "Diploma",
+      "studyType": "Diploma (Grade Good)",
       "startDate": "1996-09-01",
       "endDate": "2001-07-31",
-      "courses": []
+      "courses": "Theory of Land Surveying, Mapping, Topography, Photogrammetry, Industrial Measurement, Land Register."
+    },
+    {
+      "image": "images/favicon-work/uni-frankfurt.png",
+      "institution": "Johann-Wolfgang-Goethe University in Frankfurt, Germany",
+      "area": "Meteorology",
+      "studyType": "Intermediate Diploma (Grade Good)",
+      "startDate": "1991-09-01",
+      "endDate": "1996-07-31",
+      "courses": "Maths, Experimental Physics, Theoretical Physics, Basics of Meteorology."
     }
   ],
   "skills": [
