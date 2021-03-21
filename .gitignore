@@ -22,5 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+nohup.out
+/package-lock.json
+cv.pdf
 /deploy.sh
 /public/images/favicon-work
