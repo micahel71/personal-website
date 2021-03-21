@@ -294,5 +294,53 @@
       "name": "Cycling",
       "x_icon": "fa-biking"
     }
+  ],
+  "certifications": [
+    {
+      "image": "images/favicon-work/edx.png",
+      "institution": "LinuxFoundationX",
+      "area": "LFS101x: Introduction to Linux",
+      "startDate": "2021-02-19",
+      "endDate": "2021-03-06",
+      "courses": "Introduction to Linux",
+      "link": "https://courses.edx.org/certificates/49d0d605e8f740a9988a8c4bd8c7a834",
+      "onlinecert": "View Certificate"
+    },
+    {
+      "image": "images/favicon-work/netways.png",
+      "institution": "Netways Training",
+      "area": "Ansible – Configuration Management",
+      "startDate": "2018-07-24",
+      "endDate": "2018-07-25",
+      "courses": "Introduction to config management, introduction to Ansible (Linux, Unix), Ansible installation and more",
+      "link": ""
+    },
+    {
+      "image": "images/favicon-work/borisgloger.png",
+      "institution": "Boris Gloger",
+      "area": "Kanban Squad Kickoff",
+      "startDate": "2018-03-02",
+      "endDate": "2018-03-02",
+      "courses": "Kanban basics",
+      "link": ""
+    },
+    {
+      "image": "images/favicon-work/redhat.png",
+      "institution": "Red Hat, Inc",
+      "area": "Red Hat Openshift Administration I (DO280)",
+      "startDate": "2017-10-23",
+      "endDate": "2017-10-25",
+      "courses": "Red Hat Openshift Administration",
+      "link": ""
+    },
+    {
+      "image": "images/favicon-work/linuxhotel.png",
+      "institution": "Linuxhotel",
+      "area": "Docker",
+      "startDate": "2017-03-08",
+      "endDate": "2017-03-09",
+      "courses": "Docker from basic to advanced",
+      "link": ""
+    }
   ]
 }
