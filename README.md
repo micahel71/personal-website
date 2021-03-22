@@ -36,6 +36,12 @@ If you improve the app in any way a PR would be very apreciated ;)
    > npm start
    ```
 
+   A pdf export can be created based on pdf/pdf.js settings
+
+   ```bash
+   nohup npm start & sleep 10 && node pdf/pdf.js 
+   ```
+
 ## Contributing
 
 Feel free to fork this project and customize with your personal info. If you implement any nice features or improvements I'd really appreciate if you could open a PR to this project ;)
