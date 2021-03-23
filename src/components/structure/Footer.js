@@ -11,13 +11,15 @@ function Footer() {
           </a>
         </p>
         <p>
+          <a href="https://bulma.io">
           <img
-            width="512"
-            height="96"
+            width="128"
+            height="24"
             src="https://bulma.io/images/made-with-bulma--semiwhite.png"
             className="bulma-image"
-            alt=""
+            alt="Made with Bulma"
           />
+          </a>
         </p>
       </div>
     </footer>
