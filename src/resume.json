@@ -299,6 +299,16 @@
     {
       "image": "images/favicon-work/edx.png",
       "institution": "LinuxFoundationX",
+      "area": " LFS151.x: Introduction to Cloud Infrastructure Technologies",
+      "startDate": "2021-03-06",
+      "endDate": "2021-03-24",
+      "courses": "Introduction to Cloud Infrastructure Technologies",
+      "link": "https://courses.edx.org/certificates/95f790822b4c428fa75da31e1dc9ff63",
+      "onlinecert": "View Certificate"
+    },
+    {
+      "image": "images/favicon-work/edx.png",
+      "institution": "LinuxFoundationX",
       "area": "LFS101x: Introduction to Linux",
       "startDate": "2021-02-19",
       "endDate": "2021-03-06",
