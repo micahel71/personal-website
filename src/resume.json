@@ -299,6 +299,16 @@
     {
       "image": "images/favicon-work/edx.png",
       "institution": "LinuxFoundationX",
+      "area": "  LFS158x: Introduction to Kubernetes",
+      "startDate": "2021-03-24",
+      "endDate": "2021-04-13",
+      "courses": "Introduction to Kubernetes",
+      "link": "https://courses.edx.org/certificates/10359c4fcd72472d8eb79ecc3ca8f040",
+      "onlinecert": "View Certificate"
+    },
+    {
+      "image": "images/favicon-work/edx.png",
+      "institution": "LinuxFoundationX",
       "area": " LFS151.x: Introduction to Cloud Infrastructure Technologies",
       "startDate": "2021-03-06",
       "endDate": "2021-03-24",
